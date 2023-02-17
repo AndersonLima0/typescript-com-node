@@ -2,6 +2,6 @@
 
 ## Avaliable scripts
 
-### npm dev
+### `npm dev`
 
 Runs the app in the development mode.
